@@ -3,3 +3,5 @@
 
 <h3>We will go to Fourtun 500</h3>
 <h4>Improved CI/CD to have versioning</h4>
+
+<h4>Intergrated kubernetes</h4>
